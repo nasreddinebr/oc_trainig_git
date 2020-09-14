@@ -1,0 +1,3 @@
+[submodule "Net15/bundles_project"]
+	path = Net15/bundles_project
+	url = https://net15.net:14500/net15/bundles_project.git
